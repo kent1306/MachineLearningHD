@@ -128,7 +128,7 @@ Python 3.10+
 ### 1. Clone or download the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/kent1306/MachineLearningHD.git
 cd MachineLearningHD
 ```
 
